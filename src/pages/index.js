@@ -1,0 +1,5 @@
+export { default as Home} from './Home'
+export { default as CoffeePage } from './CoffeePage'
+export { default as Cart } from './Cart'
+export { default as CoffeeBeansPage} from './CoffeeBeansPage'
+export { default as NotFound} from './NotFound'

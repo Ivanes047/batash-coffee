@@ -1,0 +1,32 @@
+{
+    "coffeeData": [
+        {
+            "id": 0,
+            "imageSrc": "https://images.unsplash.com/photo-1587734195503-904fca47e0e9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80",
+            "name": "Эфиопия Сидамо",
+            "price": 1500,
+            "description": ""
+        },
+        {
+            "id": 1,
+            "imageSrc": "https://images.unsplash.com/photo-1628236876894-dbde8ff5a944?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=442&q=80",
+            "name": "Бразилия Серрадо",
+            "price": 1400,
+            "description": ""
+        },
+        {
+            "id": 2,
+            "imageSrc": "https://images.unsplash.com/photo-1606486544554-164d98da4889?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+            "name": "Смесь Batash Legend",
+            "price": 1300,
+            "description": ""
+        },
+        {
+            "id": 3,
+            "imageSrc": "https://images.unsplash.com/photo-1587734195503-904fca47e0e9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80",
+            "name": "Эфиопия Сидамо",
+            "price": 1200,
+            "description": ""
+        }
+    ]
+}
